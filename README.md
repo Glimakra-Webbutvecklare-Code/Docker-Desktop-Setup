@@ -42,9 +42,8 @@ Starta PowerShell, och kör följande kommando:
 
 ## Steg 4: Installera Docker Desktop
 
-Hämta installationsfilen för Docker Desktop. Den förvalda bör fungera, men det går annars att hitta olika versioner via webbplatsen, ex en tidigare version som jag testat med framgång.
-
-`https://docs.docker.com/desktop/release-notes/#4120`
+Hämta installationsfilen för Docker Desktop. Den förvalda bör fungera, men det går annars att hitta olika versioner via webbplatsen.
+`https://docs.docker.com/desktop/release-notes/`
 
 När installationsfilen är hämtad, visa filen i utforskaren. Högerklicka därefter på filen och installera genom att välja *Kör som administratör*.
 
