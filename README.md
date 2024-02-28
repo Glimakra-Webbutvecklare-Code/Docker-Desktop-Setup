@@ -3,6 +3,12 @@
 Docker Desktop kan installeras i olika miljöer. Den här guiden fokuserar på Windows.
 [Docker Desktop](https://www.docker.com/products/docker-desktop/).
 
+### Mer om installation i olika miljöer  
+- Windows: https://docs.docker.com/desktop/install/windows-install/
+- Mac: https://docs.docker.com/desktop/install/mac-install/
+- Linux: https://docs.docker.com/desktop/install/linux-install/
+
+
 ## Installera Docker Desktop i Windows
 
 Docker Desktop använder WSL *Windows Subsystem for Linux*.  Det är en funktion i Windows som tillåter utvecklare att köra en Linux-miljö utan behov av en separat virtuell maskin eller dubbel uppstart.
